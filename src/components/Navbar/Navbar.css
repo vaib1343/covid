@@ -1,0 +1,12 @@
+.navbar{
+    background-color: white !important;
+}
+.navbar-brand{
+    font-size: 30px;
+    text-shadow: 11px 8px 20px #3D4651;;
+}
+.active_nav{
+    color: #2b1052;
+    border-bottom: 2px solid #2b1052;
+    font-weight: 600;
+}
